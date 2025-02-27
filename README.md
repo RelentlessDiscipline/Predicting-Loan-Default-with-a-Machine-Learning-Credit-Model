@@ -42,4 +42,6 @@ Lastly I developed 3 sets of algorithms involving different data treatment, and 
 
 You can find the model evaluation at the bottom of the project.
 
+Special thank you to Instructor Bill Chao for teaching the course! 🙌  
+
 Thank you for reading!
